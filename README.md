@@ -1,2 +1,2 @@
 # didactic-spoon
-Adobe After Effects Expressions
+A compilation of Adobe After Effects Expressions
