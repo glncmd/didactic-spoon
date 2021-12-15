@@ -4,6 +4,7 @@ e = 0.7;
 g = 5000;
 nMax = 9;
 n = 0;
+
 if (numKeys > 0) {
   n = nearestKey(time).index;
   if (key(n).time > time) n--;
